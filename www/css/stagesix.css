@@ -1,0 +1,79 @@
+.version.stagesix /* version checker */
+{
+	color: #000003;
+	background-color: #5A8A18;
+}
+
+@-ms-viewport
+{
+	width: 382px;
+}
+
+@-webkit-viewport
+{
+	width: 382px;
+}
+
+@-o-viewport
+{
+	width: 382px;
+}
+
+@-moz-viewport
+{
+	width: 382px;
+}
+
+@viewport
+{
+	width: 382px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 326px;
+	min-height: 428px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #F7931E;
+	background-color: transparent;
+	margin-top: -1px;
+	padding: 71px 29px 71px 25px;
+}
+
+#u1350-113
+{
+	z-index: 2;
+	width: 326px;
+	background-color: transparent;
+	text-align: justify;
+	text-indent: 5px;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u1350-2,#u1350-3,#u1350-5,#u1350-6,#u1350-8,#u1350-9,#u1350-11,#u1350-12,#u1350-14,#u1350-15,#u1350-17,#u1350-18,#u1350-20,#u1350-21,#u1350-23,#u1350-24,#u1350-26,#u1350-27,#u1350-29,#u1350-31,#u1350-32,#u1350-34,#u1350-35,#u1350-37,#u1350-38,#u1350-40,#u1350-42,#u1350-43,#u1350-45,#u1350-46,#u1350-48,#u1350-49,#u1350-51,#u1350-52,#u1350-54,#u1350-55,#u1350-57,#u1350-58,#u1350-60,#u1350-61,#u1350-63,#u1350-64,#u1350-66,#u1350-67,#u1350-69,#u1350-70,#u1350-72,#u1350-73,#u1350-75,#u1350-76,#u1350-78,#u1350-79,#u1350-81,#u1350-82,#u1350-84,#u1350-85,#u1350-87,#u1350-88,#u1350-90,#u1350-91,#u1350-93,#u1350-94,#u1350-96,#u1350-97,#u1350-99,#u1350-100,#u1350-102,#u1350-103,#u1350-105,#u1350-106,#u1350-108,#u1350-109,#u1350-111
+{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+body
+{
+	position: relative;
+	min-width: 382px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

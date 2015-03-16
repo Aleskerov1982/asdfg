@@ -1,0 +1,79 @@
+.version.stageseven /* version checker */
+{
+	color: #0000E2;
+	background-color: #AFA4AC;
+}
+
+@-ms-viewport
+{
+	width: 382px;
+}
+
+@-webkit-viewport
+{
+	width: 382px;
+}
+
+@-o-viewport
+{
+	width: 382px;
+}
+
+@-moz-viewport
+{
+	width: 382px;
+}
+
+@viewport
+{
+	width: 382px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 326px;
+	min-height: 428px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #F7931E;
+	background-color: transparent;
+	margin-top: -1px;
+	padding: 71px 27px;
+}
+
+#u1351-161
+{
+	z-index: 2;
+	width: 326px;
+	background-color: transparent;
+	text-align: justify;
+	text-indent: 5px;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u1351-2,#u1351-3,#u1351-5,#u1351-6,#u1351-8,#u1351-9,#u1351-11,#u1351-12,#u1351-14,#u1351-15,#u1351-17,#u1351-18,#u1351-20,#u1351-21,#u1351-23,#u1351-24,#u1351-26,#u1351-27,#u1351-29,#u1351-30,#u1351-32,#u1351-33,#u1351-35,#u1351-36,#u1351-38,#u1351-39,#u1351-41,#u1351-42,#u1351-44,#u1351-45,#u1351-47,#u1351-48,#u1351-50,#u1351-51,#u1351-53,#u1351-54,#u1351-56,#u1351-57,#u1351-59,#u1351-60,#u1351-62,#u1351-63,#u1351-65,#u1351-66,#u1351-68,#u1351-69,#u1351-71,#u1351-72,#u1351-74,#u1351-75,#u1351-77,#u1351-78,#u1351-80,#u1351-81,#u1351-83,#u1351-84,#u1351-86,#u1351-87,#u1351-89,#u1351-90,#u1351-92,#u1351-93,#u1351-95,#u1351-96,#u1351-98,#u1351-99,#u1351-101,#u1351-102,#u1351-104,#u1351-105,#u1351-107,#u1351-108,#u1351-110,#u1351-111,#u1351-113,#u1351-114,#u1351-116,#u1351-118,#u1351-119,#u1351-121,#u1351-122,#u1351-124,#u1351-126,#u1351-127,#u1351-129,#u1351-130,#u1351-132,#u1351-133,#u1351-135,#u1351-136,#u1351-138,#u1351-139,#u1351-141,#u1351-142,#u1351-144,#u1351-145,#u1351-147,#u1351-148,#u1351-150,#u1351-151,#u1351-153,#u1351-154,#u1351-156,#u1351-157,#u1351-159
+{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+body
+{
+	position: relative;
+	min-width: 382px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

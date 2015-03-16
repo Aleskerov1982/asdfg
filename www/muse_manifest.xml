@@ -1,0 +1,100 @@
+<manifest alg="2" build="1176" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1426481059914">
+  <folder name="assets">
+    <file name="player.mp4" crc="4031423842" mt="1412275412000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="112901801"/>
+    <file name="index.css" crc="4222540520" ref="index"/>
+    <file name="iefonts_index.css" crc="69426253" ref="index"/>
+    <file name="stagegrand2.css" crc="3908613769" ref="stagegrand2"/>
+    <file name="stageeight.css" crc="34005095" ref="stageeight"/>
+    <file name="zeleven.css" crc="4290727255" ref="zeleven"/>
+    <file name="zsix.css" crc="273690333" ref="zsix"/>
+    <file name="konstitusia.css" crc="112108330" ref="konstitusia"/>
+    <file name="znine.css" crc="68712112" ref="znine"/>
+    <file name="zthree.css" crc="4075257810" ref="zthree"/>
+    <file name="zten.css" crc="503441758" ref="zten"/>
+    <file name="kstagetwo.css" crc="4148249819" ref="kstagetwo"/>
+    <file name="iefonts_kstagetwo.css" crc="4225421655" ref="kstagetwo"/>
+    <file name="stagefour.css" crc="3846539043" ref="stagefour"/>
+    <file name="iefonts_stagefour.css" crc="7711715" ref="stagefour"/>
+    <file name="simvolirf.css" crc="385735624" ref="simvolirf"/>
+    <file name="iefonts_simvolirf.css" crc="164344459" ref="simvolirf"/>
+    <file name="stageseven.css" crc="3803161772" ref="stageseven"/>
+    <file name="zfour.css" crc="4177719792" ref="zfour"/>
+    <file name="zfive.css" crc="3968062017" ref="zfive"/>
+    <file name="stagenine.css" crc="323503748" ref="stagenine"/>
+    <file name="zakonopolisii.css" crc="112108330" ref="zakonopolisii"/>
+    <file name="kstageone.css" crc="468711284" ref="kstageone"/>
+    <file name="iefonts_kstageone.css" crc="3918580654" ref="kstageone"/>
+    <file name="stagefree.css" crc="4265802739" ref="stagefree"/>
+    <file name="zeight.css" crc="342421343" ref="zeight"/>
+    <file name="stagesix.css" crc="56265240" ref="stagesix"/>
+    <file name="stagefive.css" crc="349600640" ref="stagefive"/>
+    <file name="iefonts_stagefive.css" crc="4255040768" ref="stagefive"/>
+    <file name="ztwo.css" crc="3813293259" ref="ztwo"/>
+    <file name="zseven.css" crc="4012394777" ref="zseven"/>
+    <file name="zone.css" crc="4035489108" ref="zone"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:kstageone:kstagetwo:stagefree:stagefour:stagefive:stagesix:stageseven:stageeight:stagenine:stagegrand2:konstitusia:zakonopolisii:zone:ztwo:zthree:zfour:zfive:zsix:zseven:zeight:znine:zten:zeleven:simvolirf"/>
+    <file name="museutils.js" crc="3793461109" ref="index:kstageone:kstagetwo:stagefree:stagefour:stagefive:stagesix:stageseven:stageeight:stagenine:stagegrand2:konstitusia:zakonopolisii:zone:ztwo:zthree:zfour:zfive:zsix:zseven:zeight:znine:zten:zeleven:simvolirf"/>
+    <file name="pie.js" crc="3827607177" ref="index:simvolirf"/>
+    <file name="jquery.musemenu.js" crc="492415246" ref="index"/>
+    <file name="webpro.js" crc="4263367560" ref="index"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="index"/>
+    <file name="touchswipe.js" crc="3796284560" ref="index"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index:kstageone:kstagetwo:stagefree:stagefour:stagefive:stagesix:stageseven:stageeight:stagenine:stagegrand2:konstitusia:zakonopolisii:zone:ztwo:zthree:zfour:zfive:zsix:zseven:zeight:znine:zten:zeleven:simvolirf"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:kstageone:kstagetwo:stagefree:stagefour:stagefive:stagesix:stageseven:stageeight:stagenine:stagegrand2:konstitusia:zakonopolisii:zone:ztwo:zthree:zfour:zfive:zsix:zseven:zeight:znine:zten:zeleven"/>
+  </folder>
+  <folder name="images">
+    <file name="aleskerovsoftsmall.png" crc="329932493" ref="index"/>
+    <file name="services-ieu383-fr.png" crc="3946308291" ref="index"/>
+    <file name="services.png" crc="3946308291" ref="index"/>
+    <file name="black-arrow-u393-fr.png" crc="4013491104" ref="index"/>
+    <file name="black-arrow-u393-fr2.png" crc="4013491104" ref="index"/>
+    <file name="black-arrow-u393-r-fr.png" crc="3971081719" ref="index"/>
+    <file name="case-studies-ieu335-fr.png" crc="3847093270" ref="index"/>
+    <file name="case-studies.png" crc="3847093270" ref="index"/>
+    <file name="black-arrow-ieu338-fr.png" crc="455366563" ref="index"/>
+    <file name="black-arrow-ieu338-r-fr.png" crc="487443179" ref="index"/>
+    <file name="black-arrow-ieu1392-fr.png" crc="254063390" ref="index"/>
+    <file name="black-arrow-ieu1392-r-fr.png" crc="147510278" ref="index"/>
+    <file name="contact-ieu374-fr.png" crc="3972108336" ref="index"/>
+    <file name="contact.png" crc="3972108336" ref="index"/>
+    <file name="about-ieu344-fr.png" crc="3772555179" ref="index"/>
+    <file name="about.png" crc="3772555179" ref="index"/>
+    <file name="contact2.png" crc="484411747" ref="index"/>
+    <file name="home-ieu332-fr.png" crc="336636309" ref="index"/>
+    <file name="home.png" crc="336636309" ref="index"/>
+    <file name="black-arrow-ieu379-fr.png" crc="24211360" ref="index"/>
+    <file name="black-arrow-ieu379-r-fr.png" crc="3903518714" ref="index"/>
+    <file name="coat_of_arms_of_the_russian_federationsvg.png" crc="336972745" ref="simvolirf"/>
+  </folder>
+  <file name="index.html" crc="10196364" mt="1426425765634" redirect="true"/>
+  <file name="kstageone.html" crc="450682992" mt="1426408682093" redirect="true"/>
+  <file name="kstagetwo.html" crc="90004222" mt="1426408682093" redirect="true"/>
+  <file name="stagefree.html" crc="114354379" mt="1426408682093" redirect="true"/>
+  <file name="stagefour.html" crc="456466631" mt="1426408682093" redirect="true"/>
+  <file name="stagefive.html" crc="3949538765" mt="1426408682093" redirect="true"/>
+  <file name="stagesix.html" crc="252197223" mt="1426408682093" redirect="true"/>
+  <file name="stageseven.html" crc="211118113" mt="1426408682093" redirect="true"/>
+  <file name="stageeight.html" crc="3894466927" mt="1426408682093" redirect="true"/>
+  <file name="stagenine.html" crc="4097214297" mt="1426408682093" redirect="true"/>
+  <file name="stagegrand2.html" crc="3786730960" mt="1426408682093" redirect="true"/>
+  <file name="konstitusia.html" crc="23208046" mt="1426408682093" redirect="false"/>
+  <file name="zakonopolisii.html" crc="496812525" mt="1426416025319" redirect="false"/>
+  <file name="zone.html" crc="392639647" mt="1426416448924" redirect="true"/>
+  <file name="ztwo.html" crc="3930680934" mt="1426417521680" redirect="true"/>
+  <file name="zthree.html" crc="4059960233" mt="1426418539853" redirect="true"/>
+  <file name="zfour.html" crc="305030586" mt="1426418587577" redirect="true"/>
+  <file name="zfive.html" crc="3783390498" mt="1426418726803" redirect="true"/>
+  <file name="zsix.html" crc="63992974" mt="1426418841029" redirect="true"/>
+  <file name="zseven.html" crc="528372235" mt="1426418913546" redirect="true"/>
+  <file name="zeight.html" crc="259831941" mt="1426419399126" redirect="true"/>
+  <file name="znine.html" crc="3820784762" mt="1426419467723" redirect="true"/>
+  <file name="zten.html" crc="3921476675" mt="1426419615220" redirect="true"/>
+  <file name="zeleven.html" crc="4134693214" mt="1426419819010" redirect="true"/>
+  <file name="simvolirf.html" crc="4052645737" mt="1426480973487" redirect="true"/>
+</manifest>

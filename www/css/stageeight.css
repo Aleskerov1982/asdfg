@@ -1,0 +1,79 @@
+.version.stageeight /* version checker */
+{
+	color: #000002;
+	background-color: #06E067;
+}
+
+@-ms-viewport
+{
+	width: 382px;
+}
+
+@-webkit-viewport
+{
+	width: 382px;
+}
+
+@-o-viewport
+{
+	width: 382px;
+}
+
+@-moz-viewport
+{
+	width: 382px;
+}
+
+@viewport
+{
+	width: 382px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 324px;
+	min-height: 428px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #F7931E;
+	background-color: transparent;
+	margin-top: -1px;
+	padding: 71px 30px 71px 26px;
+}
+
+#u1352-37
+{
+	z-index: 2;
+	width: 324px;
+	background-color: transparent;
+	text-align: justify;
+	text-indent: 5px;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u1352-2,#u1352-3,#u1352-5,#u1352-6,#u1352-8,#u1352-9,#u1352-11,#u1352-12,#u1352-14,#u1352-15,#u1352-17,#u1352-18,#u1352-20,#u1352-21,#u1352-23,#u1352-24,#u1352-26,#u1352-27,#u1352-29,#u1352-30,#u1352-32,#u1352-33,#u1352-35
+{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+body
+{
+	position: relative;
+	min-width: 382px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

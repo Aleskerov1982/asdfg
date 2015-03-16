@@ -1,0 +1,87 @@
+.version.zten /* version checker */
+{
+	color: #00001E;
+	background-color: #01E95E;
+}
+
+@-ms-viewport
+{
+	width: 382px;
+}
+
+@-webkit-viewport
+{
+	width: 382px;
+}
+
+@-o-viewport
+{
+	width: 382px;
+}
+
+@-moz-viewport
+{
+	width: 382px;
+}
+
+@viewport
+{
+	width: 382px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 353px;
+	min-height: 428px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #F7931E;
+	background-color: transparent;
+	margin-top: -1px;
+	padding: 71px 11px 71px 16px;
+}
+
+#u3495-54
+{
+	z-index: 2;
+	width: 353px;
+	min-height: 1548px;
+	background-color: transparent;
+	color: #000000;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3495-2,#u3495-3,#u3495-5,#u3495-6,#u3495-8,#u3495-9,#u3495-11,#u3495-12,#u3495-14,#u3495-15,#u3495-17,#u3495-18,#u3495-20,#u3495-21,#u3495-23,#u3495-24,#u3495-26,#u3495-27,#u3495-29,#u3495-30,#u3495-32,#u3495-33,#u3495-35,#u3495-36,#u3495-38,#u3495-39,#u3495-41,#u3495-42,#u3495-44,#u3495-45,#u3495-46,#u3495-47,#u3495-49,#u3495-51
+{
+	text-align: justify;
+	text-indent: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#u3495-52
+{
+	text-transform: none;
+	letter-spacing: 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 382px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

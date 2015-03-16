@@ -1,0 +1,63 @@
+.version.zakonopolisii /* version checker */
+{
+	color: #000006;
+	background-color: #AEA32A;
+}
+
+@-ms-viewport
+{
+	width: 382px;
+}
+
+@-webkit-viewport
+{
+	width: 382px;
+}
+
+@-o-viewport
+{
+	width: 382px;
+}
+
+@-moz-viewport
+{
+	width: 382px;
+}
+
+@viewport
+{
+	width: 382px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 0px;
+	min-height: 0px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #F7931E;
+	background-color: transparent;
+	padding-top: 71px;
+	padding-right: 380px;
+	padding-bottom: 499px;
+	margin-top: -1px;
+}
+
+body
+{
+	position: relative;
+	min-width: 382px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

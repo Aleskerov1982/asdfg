@@ -1,0 +1,145 @@
+.version.simvolirf /* version checker */
+{
+	color: #000016;
+	background-color: #FDDBC8;
+}
+
+@-ms-viewport
+{
+	width: 382px;
+}
+
+@-webkit-viewport
+{
+	width: 382px;
+}
+
+@-o-viewport
+{
+	width: 382px;
+}
+
+@-moz-viewport
+{
+	width: 382px;
+}
+
+@viewport
+{
+	width: 382px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 499px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #F7931E;
+	background-color: transparent;
+	padding-bottom: 71px;
+	margin-top: -1px;
+}
+
+#u3504-46
+{
+	z-index: 2;
+	width: 354px;
+	min-height: 1249px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FF0000;
+	background-color: #E9D5B7;
+	border-radius: 31px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 71px;
+	left: 13px;
+}
+
+#u3504-3,#u3504-4,#u3504-6,#u3504-7,#u3504-9,#u3504-11,#u3504-13
+{
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+}
+
+#u3504,#u3504-14,#u3504-15,#u3504-16,#u3504-17,#u3504-18,#u3504-19,#u3504-20,#u3504-21,#u3504-22,#u3504-23,#u3504-24,#u3504-25,#u3504-26,#u3504-27,#u3504-28,#u3504-29
+{
+	text-align: center;
+}
+
+#u3504-30,#u3504-36
+{
+	text-decoration: underline;
+	text-transform: uppercase;
+	font-weight: 400;
+}
+
+#u3504-32,#u3504-34,#u3504-35,#u3504-38,#u3504-40,#u3504-42,#u3504-43,#u3504-44
+{
+	text-align: justify;
+	text-indent: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+}
+
+#u3513
+{
+	z-index: 48;
+	width: 200px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 279px;
+	left: 90px;
+}
+
+#u3530
+{
+	z-index: 50;
+	width: 324px;
+	min-height: 31px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1041px;
+	left: 28px;
+}
+
+#u3538
+{
+	z-index: 51;
+	width: 324px;
+	min-height: 228px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1079px;
+	left: 28px;
+}
+
+body
+{
+	position: relative;
+	min-width: 382px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

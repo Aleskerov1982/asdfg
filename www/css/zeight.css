@@ -1,0 +1,88 @@
+.version.zeight /* version checker */
+{
+	color: #000014;
+	background-color: #68EF5F;
+}
+
+@-ms-viewport
+{
+	width: 382px;
+}
+
+@-webkit-viewport
+{
+	width: 382px;
+}
+
+@-o-viewport
+{
+	width: 382px;
+}
+
+@-moz-viewport
+{
+	width: 382px;
+}
+
+@viewport
+{
+	width: 382px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 353px;
+	min-height: 428px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #F7931E;
+	background-color: transparent;
+	margin-top: -1px;
+	padding: 71px 11px 71px 16px;
+}
+
+#u3492-160
+{
+	z-index: 2;
+	width: 353px;
+	min-height: 1548px;
+	background-color: transparent;
+	color: #000000;
+	text-align: justify;
+	text-indent: 5px;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3492-24
+{
+	padding-right: 10px;
+	padding-left: 10px;
+	font-style: italic;
+}
+
+#u3492-2,#u3492-3,#u3492-5,#u3492-6,#u3492-8,#u3492-9,#u3492-11,#u3492-12,#u3492-14,#u3492-15,#u3492-17,#u3492-18,#u3492-20,#u3492-21,#u3492-23,#u3492-26,#u3492-27,#u3492-29,#u3492-30,#u3492-32,#u3492-33,#u3492-35,#u3492-36,#u3492-38,#u3492-39,#u3492-41,#u3492-42,#u3492-44,#u3492-45,#u3492-47,#u3492-48,#u3492-50,#u3492-51,#u3492-53,#u3492-54,#u3492-56,#u3492-57,#u3492-59,#u3492-60,#u3492-62,#u3492-63,#u3492-65,#u3492-66,#u3492-68,#u3492-69,#u3492-71,#u3492-72,#u3492-74,#u3492-75,#u3492-77,#u3492-78,#u3492-80,#u3492-81,#u3492-83,#u3492-84,#u3492-86,#u3492-87,#u3492-89,#u3492-90,#u3492-92,#u3492-93,#u3492-95,#u3492-96,#u3492-98,#u3492-99,#u3492-101,#u3492-102,#u3492-104,#u3492-105,#u3492-107,#u3492-108,#u3492-110,#u3492-111,#u3492-113,#u3492-114,#u3492-116,#u3492-117,#u3492-119,#u3492-120,#u3492-122,#u3492-123,#u3492-125,#u3492-126,#u3492-128,#u3492-129,#u3492-131,#u3492-132,#u3492-134,#u3492-135,#u3492-137,#u3492-138,#u3492-140,#u3492-141,#u3492-143,#u3492-144,#u3492-146,#u3492-147,#u3492-149,#u3492-150,#u3492-152,#u3492-153,#u3492-155,#u3492-156,#u3492-158
+{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+body
+{
+	position: relative;
+	min-width: 382px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
